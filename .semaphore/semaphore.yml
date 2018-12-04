@@ -13,4 +13,5 @@ blocks:
         commands:
           - checkout
           - make test
+          - echo done
 
