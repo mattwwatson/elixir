@@ -1,8 +1,8 @@
 version: v1.0
-name: 8CPU time test #2 
+name: 4CPU time test #3 
 agent:
   machine:
-    type: e1-standard-8
+    type: e1-standard-4
     os_image: ubuntu1804
 
 blocks:
